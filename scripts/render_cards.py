@@ -34,8 +34,8 @@ import urllib.request
 # ----------------------------------------------------------------------------- identity
 USER = "spoonix-dev"
 NAME = "Spoonix"
-ROLE = "Open-source developer"
-BIO = "Building ContextTree, a privacy-first Windows memory app, in Rust, Tauri & React."
+ROLE = "Open-source developer • Python & Go"
+BIO = "Building AI proxies, system monitors & developer tools."
 
 # ----------------------------------------------------------------------------- config
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
